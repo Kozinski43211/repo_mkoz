@@ -1,23 +1,28 @@
-$ git log
-commit 2be017e5974b5c2e10e619451e4965156ff83930 (HEAD -> master)
-Merge: 27ddab8 3d768bd
+commit 1d18d322a6ba294a019eb368014cca622b603baa (HEAD -> master, origin/master, origin/HEAD)
+Merge: 9712943 3b94368
 Author: Kozinski43211 <mkoz43211@wp.pl>
-Date:   Mon Jun 10 23:12:26 2024 +0200
+Date:   Tue Jun 11 18:58:09 2024 +0200
 
-    resolved conflicts
+    fixed myConflicts.txt
 
-commit 3d768bd1ba421ef4c7178e6689839e5bfaf3ec9e (origin/data_fix, origin/HEAD, data_fix)
+commit 3b943686337f0254ac6b304885eed3feea9233f8 (data_fix)
 Author: Kozinski43211 <mkoz43211@wp.pl>
-Date:   Mon Jun 10 23:06:56 2024 +0200
+Date:   Tue Jun 11 18:56:05 2024 +0200
 
     modified myConflicts.txt
 
-commit 27ddab898a63331225d37da99f72ab62b0ecad11
+commit 971294328020028599d05a8dcaff10e8a308d7f0
 Author: Kozinski43211 <mkoz43211@wp.pl>
-Date:   Mon Jun 10 23:03:03 2024 +0200
+Date:   Tue Jun 11 18:53:15 2024 +0200
 
     modified myConflicts.txt
 
-commit e9fb8efcae00d88f07edfe8559f58dfd61b026bd
+commit 660391dd75a2c9c601cae1a1271c41b423f01e9c
 Author: Kozinski43211 <mkoz43211@wp.pl>
-Date:   Mon Jun 10 22:56:05 2024 +0200
+Date:   Tue Jun 11 18:51:06 2024 +0200
+
+    modified myConflicts.txt
+
+commit ff036662d03f39f3a6b8ea73b8f113d914c80b19
+Author: Kozinski43211 <mkoz43211@wp.pl>
+Date:   Tue Jun 11 18:37:16 2024 +0200
